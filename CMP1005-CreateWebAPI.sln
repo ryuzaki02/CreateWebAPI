@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP1005-CreateWebAPI", "CMP1005-CreateWebAPI\CMP1005-CreateWebAPI.csproj", "{7112D8F7-E6C6-4057-ABC1-0526FFA59EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP1005-CreateWebAPILogic", "CMP1005-CreateWebAPILogic\CMP1005-CreateWebAPILogic.csproj", "{78CF9310-7A19-4AD5-BBB7-9DA30DE231B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7112D8F7-E6C6-4057-ABC1-0526FFA59EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7112D8F7-E6C6-4057-ABC1-0526FFA59EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7112D8F7-E6C6-4057-ABC1-0526FFA59EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7112D8F7-E6C6-4057-ABC1-0526FFA59EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CF9310-7A19-4AD5-BBB7-9DA30DE231B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CF9310-7A19-4AD5-BBB7-9DA30DE231B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CF9310-7A19-4AD5-BBB7-9DA30DE231B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CF9310-7A19-4AD5-BBB7-9DA30DE231B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAEE36F-4884-496D-8264-8CC95A85F58D}
+	EndGlobalSection
+EndGlobal
