@@ -25,3 +25,5 @@
 /Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/WebAPI/obj/Debug/net6.0/WebAPI.pdb
 /Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/WebAPI/obj/Debug/net6.0/WebAPI.genruntimeconfig.cache
 /Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/WebAPI/obj/Debug/net6.0/ref/WebAPI.dll
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/WebAPI/bin/Debug/net6.0/CMP1005-CreateWebAPILogic.dll
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/WebAPI/bin/Debug/net6.0/CMP1005-CreateWebAPILogic.pdb
