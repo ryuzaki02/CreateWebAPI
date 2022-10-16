@@ -21,5 +21,15 @@ public static class CreateWebAPILogic
     {
         return left - right;
     }
+
+    /*
+     * Method to Multiply two numbers
+     * params: left: Double , right: Double
+     * return: double
+     */
+    public static double Multiply(double left, double right)
+    {
+        return left * right;
+    }
 }
 
