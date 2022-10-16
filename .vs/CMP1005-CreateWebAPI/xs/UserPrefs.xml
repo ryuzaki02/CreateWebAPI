@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7112D8F7-E6C6-4057-ABC1-0526FFA59EBC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CMP1005-CreateWebAPI/SubtractionTests.cs">
+    <Files>
+      <File FileName="CMP1005-CreateWebAPILogic/CreateWebAPILogic.cs" Line="22" Column="18" />
+      <File FileName="CMP1005-CreateWebAPI/EmptyClass.cs" Line="19" Column="27" />
+      <File FileName="CMP1005-CreateWebAPI/AdditionTests.cs" Line="8" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CMP1005-CreateWebAPI" expanded="True">
+            <Node name="CMP1005-CreateWebAPI" expanded="True">
+              <Node name="SubtractionTests.cs" selected="True" />
+            </Node>
+            <Node name="CMP1005-CreateWebAPILogic" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CMP1005-CreateWebAPI" expanded="True">
+            <Node name="CMP1005-CreateWebAPI" expanded="True">
+              <Node name="CMP1005_CreateWebAPI" expanded="True">
+                <Node name="SubtractionTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CMP1005-CreateWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -10,3 +10,15 @@
 /Users/tisagamer/Documents/Projects/Cambrian/Cambrian-Web/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/refint/CMP1005-CreateWebAPILogic.dll
 /Users/tisagamer/Documents/Projects/Cambrian/Cambrian-Web/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.pdb
 /Users/tisagamer/Documents/Projects/Cambrian/Cambrian-Web/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/ref/CMP1005-CreateWebAPILogic.dll
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/bin/Debug/net6.0/CMP1005-CreateWebAPILogic.deps.json
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/bin/Debug/net6.0/CMP1005-CreateWebAPILogic.dll
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/bin/Debug/net6.0/CMP1005-CreateWebAPILogic.pdb
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.csproj.AssemblyReference.cache
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.AssemblyInfoInputs.cache
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.AssemblyInfo.cs
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.csproj.CoreCompileInputs.cache
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.dll
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/refint/CMP1005-CreateWebAPILogic.dll
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/CMP1005-CreateWebAPILogic.pdb
+/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/Debug/net6.0/ref/CMP1005-CreateWebAPILogic.dll

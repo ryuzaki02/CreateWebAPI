@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tisagamer/Documents/Projects/Cambrian/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/CMP1005-CreateWebAPILogic.csproj",
+      "projectUniqueName": "/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/CMP1005-CreateWebAPILogic.csproj",
       "projectName": "CMP1005-CreateWebAPILogic",
-      "projectPath": "/Users/tisagamer/Documents/Projects/Cambrian/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/CMP1005-CreateWebAPILogic.csproj",
+      "projectPath": "/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/CMP1005-CreateWebAPILogic.csproj",
       "packagesPath": "/Users/tisagamer/.nuget/packages/",
-      "outputPath": "/Users/tisagamer/Documents/Projects/Cambrian/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/obj/",
+      "outputPath": "/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tisagamer/.nuget/NuGet/NuGet.Config"

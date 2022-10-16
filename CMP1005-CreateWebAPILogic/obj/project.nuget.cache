@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W/Sv0gFyRkujR7jWlcTfgLuRgbU6vgOzUhtZoft2tZcIQbOf7Wn+Qc087bjgLzgQR4bPAS/KxPaVhyGg6rgDoQ==",
+  "dgSpecHash": "KGQQQWsG/1czign+tJRomsLwxK0Yipj6Yg3BzPe1BQmR/6L73ISnxXml97I1oNzSd07KdVAf9O/qpsT+zqcSew==",
   "success": true,
-  "projectFilePath": "/Users/tisagamer/Documents/Projects/Cambrian/CMP1005-CreateWebAPI/CMP1005-CreateWebAPILogic/CMP1005-CreateWebAPILogic.csproj",
+  "projectFilePath": "/Users/tisagamer/Documents/Projects/Cambrian/CreateWebAPI/CreateWebAPI/CMP1005-CreateWebAPILogic/CMP1005-CreateWebAPILogic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
