@@ -1,22 +1,13 @@
 ﻿<Properties StartupConfiguration="{7A66538D-4B5A-47E0-AF55-9693A01B599C}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CMP1005-CreateWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/MathController.cs">
     <Files>
-      <File FileName="CMP1005-CreateWebAPILogic/CreateWebAPILogic.cs" Line="54" Column="18" />
+      <File FileName="CMP1005-CreateWebAPILogic/CreateWebAPILogic.cs" />
       <File FileName="CMP1005-CreateWebAPI/AdditionTests.cs" />
-      <File FileName="CMP1005-CreateWebAPI/SubtractionTests.cs" Line="46" Column="41" />
-      <File FileName="CMP1005-CreateWebAPI/MultiplicationTests.cs" Line="113" Column="1" />
-      <File FileName="CMP1005-CreateWebAPI/DivisionTests.cs" Line="102" Column="1" />
-      <File FileName="WebAPI/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="WebAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="WebAPI/Controllers/AddController.cs" Line="12" Column="20" />
+      <File FileName="CMP1005-CreateWebAPI/SubtractionTests.cs" />
+      <File FileName="CMP1005-CreateWebAPI/MultiplicationTests.cs" />
+      <File FileName="CMP1005-CreateWebAPI/DivisionTests.cs" />
+      <File FileName="WebAPI/WeatherForecast.cs" />
+      <File FileName="WebAPI/Controllers/MathController.cs" Line="72" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,11 +21,14 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="CMP1005-CreateWebAPI" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.ItemProperties.CMP1005-CreateWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
